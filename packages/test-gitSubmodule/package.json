@@ -1,6 +1,6 @@
 {
   "name": "test-gitsubmodule",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "gitSubmodule 子模块",
   "main": "index.js",
   "scripts": {
